@@ -1,4 +1,4 @@
-package ee.praktika.springboot.demo.rest;
+package ee.praktika.springboot.demo.mycoolapp.rest;
 
 import java.time.LocalDateTime;
 
